@@ -6,6 +6,6 @@ Includes...
 3. PSQL docker with local folder volume (.gitignored)
 
 To Do...
-Add dockerized FastAPI python server to `/py-app`.
+- Add dockerized FastAPI python server to `/py-app`.
 
 Makefile and docker-compose commands already pre-written. VSCode debugging for Docker containers also preconfigured.
