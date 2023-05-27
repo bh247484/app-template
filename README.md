@@ -1,9 +1,11 @@
 # Template for Future Apps
 
-Contains three docker containers...
-1. ASP.NET api
-2. NextJS app
+Includes...
+1. Vite React/Typescript frontend.
+2. Your choice of rails or asp.net backend.
 3. PSQL docker with local folder volume (.gitignored)
-- Empty folder `/py-app` for future FastAPI python server
 
-Makefile and docker-compose commands already pre-written.  VSCode debugging for Docker containers also preconfigured.
+To Do...
+Add dockerized FastAPI python server to `/py-app`.
+
+Makefile and docker-compose commands already pre-written. VSCode debugging for Docker containers also preconfigured.
